@@ -3,6 +3,8 @@
 
 [Talk Submission at Pycon India 2016](https://in.pycon.org/cfp/2016/proposals/creating-a-recommendation-engine-based-on-contextual-word-embeddings~aOZGe/)
 
+[Talk Video](https://www.youtube.com/watch?v=Cuu8it7iCgE&index=31&list=PL4Aox7_vWyu-zYSgYkeo90cFrnwmeMSdd)
+
 ## Index
 - [What it is ??](#what-it-is?) 
 - [How it is done?](#how-it-is-done?)
